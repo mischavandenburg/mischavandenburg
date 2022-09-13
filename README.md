@@ -1,9 +1,7 @@
 # Hi, I’m @mischavandenburg 👋
-##DevOps Engineer
+## DevOps Engineer
 
 Please take a look at my blog: 
-
-I write about my journey into DevOps and learning Python
 
 www.mischavandenburg.com
  
