@@ -1,9 +1,10 @@
-# Hi, I’m @mischavandenburg 👋
-## DevOps Engineer
+# Mischa van den Burg
 
-Please take a look at my blog: 
+DevOps Engineer, Cloud Engineer, Commandline inhabitant.
 
-www.mischavandenburg.com
+https://www.mischavandenburg.com
+
+https://www.linkedin.com/in/mischavandenburg
  
 
 <!---
