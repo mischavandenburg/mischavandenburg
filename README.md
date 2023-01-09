@@ -11,9 +11,9 @@ https://www.mischavandenburg.com
 If you'd like to get in touch with me, connect with me on LinkedIn:
 
 https://www.linkedin.com/in/mischavandenburg
- 
 
-<!---
-mischavandenburg/mischavandenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Recent blog posts
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
