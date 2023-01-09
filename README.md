@@ -1,8 +1,8 @@
 # Mischa van den Burg
 
-DevOps Engineer, Cloud Engineer, Commandline inhabitant.
+DevOps Engineer, Cloud Engineer, command line inhabitant.
 
-Always learning, always on my purpose. I share what I learn on my blog and public Zettelkasten:
+[I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day jobs ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
 
 https://www.mischavandenburg.com
 
@@ -15,3 +15,8 @@ https://www.linkedin.com/in/mischavandenburg
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# A quote from the Master
+
+> “Once you decide on your occupation, you must immerse yourself in your work. You have to fall in love with your work. Never complain about your job. You must dedicate your life to mastering your skill. That’s the secret of success and is the key to being regarded honorably.”
+> Jiro
