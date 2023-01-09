@@ -12,8 +12,6 @@ If you'd like to get in touch with me, connect with me on LinkedIn:
 
 https://www.linkedin.com/in/mischavandenburg
 
-# Recent blog posts
-
-# Blog posts
+# Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
