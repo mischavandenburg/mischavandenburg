@@ -2,7 +2,7 @@
 
 DevOps Engineer, Cloud Engineer, command line inhabitant.
 
-[I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day jobs ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
+[I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day job ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
 
 https://www.mischavandenburg.com
 
