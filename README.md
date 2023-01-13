@@ -15,10 +15,10 @@ https://www.linkedin.com/in/mischavandenburg
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Azure DevOps Personal Access Tokens are always for authenticating into ADO](https://mischavandenburg.com/zet/azure-personal-access-tokens/)
+- [The Pomodoro technique has won me over](https://mischavandenburg.com/zet/pomodoro/)
 - [Using parameter expansion as search and replace](https://mischavandenburg.com/zet/slash-syntax-replace/)
 - [Automatically adding my recent blog posts to my GitHub Readme](https://mischavandenburg.com/zet/adding-posts-github-readme/)
 - [Back to Bas&lpar;h&rpar;ics: leaving zsh for now](https://mischavandenburg.com/zet/back-to-bashics/)
-- [How to build and deploy a Docker container to an Azure VM using Azure Pipelines](https://mischavandenburg.com/zet/docker-to-azure-vm/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
