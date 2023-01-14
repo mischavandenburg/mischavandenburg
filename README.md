@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I passed the AZ-400 DevOps Expert today](https://mischavandenburg.com/zet/passed-az-400/)
 - [Azure DevOps Personal Access Tokens are always for authenticating into ADO](https://mischavandenburg.com/zet/azure-personal-access-tokens/)
 - [The Pomodoro technique has won me over](https://mischavandenburg.com/zet/pomodoro/)
 - [Using parameter expansion as search and replace](https://mischavandenburg.com/zet/slash-syntax-replace/)
 - [Automatically adding my recent blog posts to my GitHub Readme](https://mischavandenburg.com/zet/adding-posts-github-readme/)
-- [Back to Bas&lpar;h&rpar;ics: leaving zsh for now](https://mischavandenburg.com/zet/back-to-bashics/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
