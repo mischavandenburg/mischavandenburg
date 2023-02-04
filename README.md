@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get a free 4 CPU 24GB Ram VM on from Oracle](https://mischavandenburg.com/zet/free-oracle-vm/)
 - [Setting up a new LUKS encrypted disk with dm-crypt in Arch Linux](https://mischavandenburg.com/zet/articles/new-luks-encrypted-disk/)
 - [Setting up automated backups on my Arch Linux system with rsync and bash](https://mischavandenburg.com/zet/arch-backup-setup-1/)
 - [I passed the AZ-400 DevOps Expert today](https://mischavandenburg.com/zet/passed-az-400/)
 - [Azure DevOps Personal Access Tokens are always for authenticating into ADO](https://mischavandenburg.com/zet/azure-personal-access-tokens/)
-- [The Pomodoro technique has won me over](https://mischavandenburg.com/zet/pomodoro/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
