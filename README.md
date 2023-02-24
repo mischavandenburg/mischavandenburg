@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Controlling Apple Music with hotkeys from anywhere on MacOS](https://mischavandenburg.com/zet/apple-music-hotkeys/)
 - [New Laptop: Moving to MacOS](https://mischavandenburg.com/zet/move-to-macos/)
 - [New job!](https://mischavandenburg.com/zet/new-job-2023/)
 - [Lab VM project - Install ArgoCD to your Kubernetes cluster](https://mischavandenburg.com/zet/articles/lab-vm-install-argocd/)
 - [Setting up a Kubernetes cluster on an Ubuntu 20.04 VM with containerd and flannel](https://mischavandenburg.com/zet/articles/simple-cluster-on-ubuntu-vm/)
-- [Get a free 4 CPU 24GB Ram VM on from Oracle](https://mischavandenburg.com/zet/free-oracle-vm/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
