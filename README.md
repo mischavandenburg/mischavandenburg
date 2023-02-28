@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Go Day 1: Notes](https://mischavandenburg.com/zet/go-day-1/)
 - [I started to learn Go!](https://mischavandenburg.com/zet/start-learning-go/)
 - [Controlling Apple Music with hotkeys from anywhere on MacOS](https://mischavandenburg.com/zet/apple-music-hotkeys/)
 - [New Laptop: Moving to MacOS](https://mischavandenburg.com/zet/move-to-macos/)
 - [New job!](https://mischavandenburg.com/zet/new-job-2023/)
-- [Lab VM project - Install ArgoCD to your Kubernetes cluster](https://mischavandenburg.com/zet/articles/lab-vm-install-argocd/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
