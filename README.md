@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes: Intermediate Bicep](https://mischavandenburg.com/zet/intermediate-bicep/)
 - [Notes: Fundamentals of Bicep](https://mischavandenburg.com/zet/articles/fundamentals-of-bicep/)
 - [Learning Go Day 1: Notes](https://mischavandenburg.com/zet/go-day-1/)
 - [I started to learn Go!](https://mischavandenburg.com/zet/start-learning-go/)
 - [Controlling Apple Music with hotkeys from anywhere on MacOS](https://mischavandenburg.com/zet/apple-music-hotkeys/)
-- [New Laptop: Moving to MacOS](https://mischavandenburg.com/zet/move-to-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
