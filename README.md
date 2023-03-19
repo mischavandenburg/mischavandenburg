@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Had a CLI Shokunin Moment Today](https://mischavandenburg.com/zet/cli-shokunin-moment/)
 - [How to continuously run a Go file while coding in the terminal](https://mischavandenburg.com/zet/running-go-on-change/)
 - [Notes: Advanced Bicep](https://mischavandenburg.com/zet/advanced-bicep/)
 - [Running Docker and Kubernetes on Mac M2](https://mischavandenburg.com/zet/docker-kubernetes-on-mac-m2/)
 - [Notes: Intermediate Bicep](https://mischavandenburg.com/zet/intermediate-bicep/)
-- [Notes: Fundamentals of Bicep](https://mischavandenburg.com/zet/articles/fundamentals-of-bicep/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
