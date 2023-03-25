@@ -16,9 +16,9 @@ https://www.linkedin.com/in/mischavandenburg
 <!-- BLOG-POST-LIST:START -->
 - [Converting markdown to PDF on MacOS](https://mischavandenburg.com/zet/pandoc-markdown-pdf-macos/)
 - [I ran 5K for the first time in my life!](https://mischavandenburg.com/zet/ran-5km/)
+- [Made Some Website Improvements](https://mischavandenburg.com/zet/website-housekeeping/)
 - [Writing about Health and Personal Life](https://mischavandenburg.com/zet/articles/write-about-health-personal/)
 - [Trying out pandoc for vim](https://mischavandenburg.com/zet/trying-out-pandoc/)
-- [How to Surround a Word with Quotes in Vim](https://mischavandenburg.com/zet/surround-word-quotes-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
