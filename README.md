@@ -15,10 +15,10 @@ https://www.linkedin.com/in/mischavandenburg
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Converting markdown to PDF on MacOS](https://mischavandenburg.com/zet/pandoc-markdown-pdf-macos/)
+- [I ran 5K for the first time in my life!](https://mischavandenburg.com/zet/ran-5km/)
+- [Writing about Health and Personal Life](https://mischavandenburg.com/zet/articles/write-about-health-personal/)
 - [Trying out pandoc for vim](https://mischavandenburg.com/zet/trying-out-pandoc/)
 - [How to Surround a Word with Quotes in Vim](https://mischavandenburg.com/zet/surround-word-quotes-neovim/)
-- [What is the difference between a Go module and a package?](https://mischavandenburg.com/zet/package-module-go/)
-- [Had a CLI Shokunin Moment Today](https://mischavandenburg.com/zet/cli-shokunin-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
