@@ -14,11 +14,11 @@ https://www.linkedin.com/in/mischavandenburg
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go - Reading from Standard Input Provided by User](https://mischavandenburg.com/zet/go-reading-stdinput-cmdline/)
+- [How to Run Newsboat in Zenmode](https://mischavandenburg.com/zet/newsboat-in-zenmode/)
 - [Converting markdown to PDF on MacOS](https://mischavandenburg.com/zet/pandoc-markdown-pdf-macos/)
 - [I ran 5K for the first time in my life!](https://mischavandenburg.com/zet/ran-5km/)
 - [Made Some Website Improvements](https://mischavandenburg.com/zet/website-housekeeping/)
-- [Writing about Health and Personal Life](https://mischavandenburg.com/zet/articles/write-about-health-personal/)
-- [Trying out pandoc for vim](https://mischavandenburg.com/zet/trying-out-pandoc/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
