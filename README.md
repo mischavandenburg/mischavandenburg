@@ -17,8 +17,8 @@ https://www.linkedin.com/in/mischavandenburg
 - [Go - Reading from Standard Input Provided by User](https://mischavandenburg.com/zet/go-reading-stdinput-cmdline/)
 - [Go - Skillstak Beginner Boost Week 17 and 18 Notes](https://mischavandenburg.com/zet/go-rwxrob-boost-week-17-18/)
 - [How to Run Newsboat in Zenmode](https://mischavandenburg.com/zet/newsboat-in-zenmode/)
+- [The Difference Between DevOps, Cloud and Cloud Native](https://mischavandenburg.com/zet/cloud-cloudnative-devops/)
 - [Converting markdown to PDF on MacOS](https://mischavandenburg.com/zet/pandoc-markdown-pdf-macos/)
-- [I ran 5K for the first time in my life!](https://mischavandenburg.com/zet/ran-5km/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
