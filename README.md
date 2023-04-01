@@ -8,9 +8,9 @@ https://www.mischavandenburg.com
 
 # Contact
 
-If you'd like to get in touch with me, connect with me on LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/mischavandenburg)
 
-https://www.linkedin.com/in/mischavandenburg
+[Twitter](https://twitter.com/mischa_vdburg)
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
