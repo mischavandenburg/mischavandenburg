@@ -14,11 +14,11 @@ https://www.mischavandenburg.com
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exercise Stimulates Creativity And Motivation](https://mischavandenburg.com/zet/exercise-stimulates-creativity-and-motivation/)
 - [Generating Markdown Headings with YYYY-MM-DD Date Format Using Bash](https://mischavandenburg.com/zet/generate-markdown-headings-date/)
 - [I Wrote My First Go Program Today](https://mischavandenburg.com/zet/my-first-go-program/)
 - [Kubernetes Resource Management for Pods and Containers - CPU and Memory](https://mischavandenburg.com/zet/kubernetes-resource-management-pods-containers/)
 - [My Neovim Zettelkasten: How I Take Notes in Markdown Using Vim and Bash](https://mischavandenburg.com/zet/neovim-zettelkasten/)
-- [Go - Reading from Standard Input Provided by User](https://mischavandenburg.com/zet/go-reading-stdinput-cmdline/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
