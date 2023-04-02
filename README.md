@@ -20,7 +20,9 @@ I'm learning Go because most of the Cloud Native technology is written in it. I 
 
 I'm working through several courses and books, and I'm gathering ideas for projects that I want to write.
 
-I try to do some work on Exercism every day. You can follow my progress and see my solutions [here.]([Exercism](https://exercism.org/profiles/mischavandenburg)
+Along the way I'll be posting the things I learn on my [blog and public Zettelkasten.](https://www.mischavandenburg.com)
+
+I try to do some work on Exercism every day. You can follow my progress and see my solutions [here.](https://exercism.org/profiles/mischavandenburg)
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
