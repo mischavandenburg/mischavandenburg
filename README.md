@@ -1,6 +1,6 @@
 # Mischa van den Burg
 
-DevOps Engineer, Cloud Engineer, command line inhabitant.
+DevOps Engineer, Cloud Engineer, command line inhabitant. I work mainly with Azure and Kubernetes, and I'm learning Go in my free time.
 
 [I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day job ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
 
@@ -11,6 +11,16 @@ https://www.mischavandenburg.com
 [LinkedIn](https://www.linkedin.com/in/mischavandenburg)
 
 [Twitter](https://twitter.com/mischa_vdburg)
+
+[Exercism](https://exercism.org/profiles/mischavandenburg)
+
+# Go
+
+I'm learning Go because most of the Cloud Native technology is written in it. I want to gain a better understanding of how they work, and I want to be able to contribute to their development in the future. 
+
+I'm working through several courses and books, and I'm gathering ideas for projects that I want to write.
+
+I try to do some work on Exercism every day. You can follow my progress and see my solutions [here.]([Exercism](https://exercism.org/profiles/mischavandenburg)
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
