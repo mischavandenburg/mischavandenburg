@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Outlining My First Go Project](https://mischavandenburg.com/zet/go-twitter-cli-project/)
 - [Podcast Notes: Dopamine and Motivation - Huberman](https://mischavandenburg.com/zet/dopamine-and-motivation/)
 - [Exercise Stimulates Creativity And Motivation](https://mischavandenburg.com/zet/exercise-stimulates-creativity-and-motivation/)
 - [Generating Markdown Headings with YYYY-MM-DD Date Format Using Bash](https://mischavandenburg.com/zet/generate-markdown-headings-date/)
 - [I Wrote My First Go Program Today](https://mischavandenburg.com/zet/my-first-go-program/)
-- [Kubernetes Resource Management for Pods and Containers - CPU and Memory](https://mischavandenburg.com/zet/kubernetes-resource-management-pods-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
