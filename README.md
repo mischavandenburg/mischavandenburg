@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting My Homelab](https://mischavandenburg.com/zet/starting-my-homelab/)
 - [Structs In Go - Similar To Classes In Python?](https://mischavandenburg.com/zet/go-struct-python-class/)
 - [Use The %q Verb When Debugging In Go](https://mischavandenburg.com/zet/go-use-q-for-debugging/)
 - [I Made My First Tweet Using My Go Program](https://mischavandenburg.com/zet/go-first-tweet/)
 - [Outlining My First Go Project](https://mischavandenburg.com/zet/go-twitter-cli-project/)
-- [Podcast Notes: Dopamine and Motivation - Huberman](https://mischavandenburg.com/zet/dopamine-and-motivation/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
