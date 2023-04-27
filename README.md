@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video: How To Read The News From The Command Line](https://mischavandenburg.com/zet/reading-news-from-command-line/)
 - [You Can Abort Operations on AKS Clusters Now](https://mischavandenburg.com/zet/aks-abort-operation/)
 - [Base Training For Running: Time Instead Of Distance](https://mischavandenburg.com/zet/base-training-running/)
 - [Importance Of Rest And Meditation When Making Changes To Routine](https://mischavandenburg.com/zet/importance-rest-changes/)
 - [Starting My Homelab](https://mischavandenburg.com/zet/starting-my-homelab/)
-- [Structs In Go - Similar To Classes In Python?](https://mischavandenburg.com/zet/go-struct-python-class/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
