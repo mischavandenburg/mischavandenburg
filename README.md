@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🍎 My Weight Loss Journey And Current Goal 📉](https://mischavandenburg.com/zet/weight-loss-journey/)
 - [How To Check The Weather From The Command Line](https://mischavandenburg.com/zet/check-weather-terminal/)
 - [Video: How To Read The News From The Command Line](https://mischavandenburg.com/zet/reading-news-from-command-line/)
 - [You Can Abort Operations on AKS Clusters Now](https://mischavandenburg.com/zet/aks-abort-operation/)
 - [Base Training For Running: Time Instead Of Distance](https://mischavandenburg.com/zet/base-training-running/)
-- [Importance Of Rest And Meditation When Making Changes To Routine](https://mischavandenburg.com/zet/importance-rest-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
