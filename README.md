@@ -28,9 +28,9 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 <!-- BLOG-POST-LIST:START -->
 - [My Plan For The D2R Ladder Reset](https://mischavandenburg.com/zet/d2r-ladder-reset-may-2023/)
 - [Saw Sabaton Live Yesterday!](https://mischavandenburg.com/zet/sabaton-concert-2023/)
+- [The Ups And Downs Of A Devops Engineer](https://mischavandenburg.com/zet/ups-and-downs-of-devops-engineer/)
 - [Vacations In The Soviet Union](https://mischavandenburg.com/zet/vacations-in-soviet-union/)
 - [The Power of Writing](https://mischavandenburg.com/zet/power-of-writing/)
-- [🍎 My Weight Loss Journey And Current Goal 📉](https://mischavandenburg.com/zet/weight-loss-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
