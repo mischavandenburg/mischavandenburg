@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saw Sabaton Live Yesterday!](https://mischavandenburg.com/zet/sabaton-concert-2023/)
 - [Vacations In The Soviet Union](https://mischavandenburg.com/zet/vacations-in-soviet-union/)
 - [The Power of Writing](https://mischavandenburg.com/zet/power-of-writing/)
 - [🍎 My Weight Loss Journey And Current Goal 📉](https://mischavandenburg.com/zet/weight-loss-journey/)
 - [2023 Week 17](https://mischavandenburg.com/zet/2023-week17/)
-- [How To Check The Weather From The Command Line](https://mischavandenburg.com/zet/check-weather-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
