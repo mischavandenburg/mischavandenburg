@@ -27,10 +27,10 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Podcast Notes: Responding To Stress With Eating](https://mischavandenburg.com/zet/stress-eating/)
+- [Video: Creating A Command To Change Fontsize in Alacritty](https://mischavandenburg.com/zet/video-custom-fontsize-command/)
 - [My Plan For The D2R Ladder Reset](https://mischavandenburg.com/zet/d2r-ladder-reset-may-2023/)
 - [Saw Sabaton Live Yesterday!](https://mischavandenburg.com/zet/sabaton-concert-2023/)
 - [The Ups And Downs Of A Devops Engineer](https://mischavandenburg.com/zet/ups-and-downs-of-devops-engineer/)
-- [Vacations In The Soviet Union](https://mischavandenburg.com/zet/vacations-in-soviet-union/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
