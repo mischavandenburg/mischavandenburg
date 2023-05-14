@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Ran 10k For The First Time Today](https://mischavandenburg.com/zet/running-first-10k/)
 - [Started Using Tumblr for Travel Blogging](https://mischavandenburg.com/zet/started-using-tumblr/)
 - [Why I&#39;m Posting More on Social Media](https://mischavandenburg.com/zet/why-post-on-social-media/)
 - [My Blog Is Turning Into And Everything / Nothing Website And It Feels Good](https://mischavandenburg.com/zet/everything-nothing-blog/)
 - [Video: How I Write &amp; Publish My Blog Using Neovim &amp; Hugo From The Command Line](https://mischavandenburg.com/zet/blogging-from-command-line/)
-- [2023 week 18](https://mischavandenburg.com/zet/2023-week-18/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
