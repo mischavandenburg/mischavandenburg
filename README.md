@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 week 20](https://mischavandenburg.com/zet/2023-week-20/)
+- [Went on My First Camping Trip After Moving Back to NL From Norway](https://mischavandenburg.com/zet/first-camping-trip-in-netherlands/)
 - [Why Have A Personal Website?](https://mischavandenburg.com/zet/why-personal-website/)
 - [2023 week 19](https://mischavandenburg.com/zet/2023-week-19/)
 - [8 Simple Japanese Habits](https://mischavandenburg.com/zet/8-simple-japanese-habits/)
-- [AI Does Not Grow Exponentially, Thus, Less Scary](https://mischavandenburg.com/zet/ai-does-not-grow-exponentially/)
-- [Invest In Experiences For Happiness](https://mischavandenburg.com/zet/invest-in-experiences-for-happiness/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
