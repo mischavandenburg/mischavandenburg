@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Simple Applications to AKS with Draft](https://mischavandenburg.com/zet/deploy-draft-azure/)
 - [2023 week 22](https://mischavandenburg.com/zet/2023-week-22/)
 - [2023 Week 21](https://mischavandenburg.com/zet/2023-week-21/)
 - [Podcast Notes - Optimal Water Intake](https://mischavandenburg.com/zet/optimal-hydration/)
 - [Discovered MAF and Low Heart Rate Training](https://mischavandenburg.com/zet/discovered-maf-training/)
-- [2023 week 20](https://mischavandenburg.com/zet/2023-week-20/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
