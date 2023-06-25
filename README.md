@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 Week 25](https://mischavandenburg.com/zet/2023-week-25/)
 - [How To Get The Id Of An Existing Subnet In Bicep](https://mischavandenburg.com/zet/bicep-getting-subnet-id/)
 - [2023 Week 24](https://mischavandenburg.com/zet/2023-week-24/)
 - [What is Azure CNI Overlay for AKS?](https://mischavandenburg.com/zet/azure-aks-cni-overlay/)
 - [2023 Week 23](https://mischavandenburg.com/zet/2023-week-23/)
-- [Deploying Simple Applications to AKS with Draft](https://mischavandenburg.com/zet/deploy-draft-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
