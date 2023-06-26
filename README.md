@@ -26,11 +26,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Achieves First Milestone Towards A Quantum Supercomputer](https://mischavandenburg.com/zet/microsoft-first-milestone-quantum-supercomputer/)
 - [2023 Week 25](https://mischavandenburg.com/zet/2023-week-25/)
 - [How To Get The Id Of An Existing Subnet In Bicep](https://mischavandenburg.com/zet/bicep-getting-subnet-id/)
 - [2023 Week 24](https://mischavandenburg.com/zet/2023-week-24/)
 - [What is Azure CNI Overlay for AKS?](https://mischavandenburg.com/zet/azure-aks-cni-overlay/)
-- [2023 Week 23](https://mischavandenburg.com/zet/2023-week-23/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
