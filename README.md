@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video: Deploying an AKS Cluster with Bicep, GitHub Copilot and Neovim](https://mischavandenburg.com/zet/video-deploying-aks-cluster-bicep-github-copilot/)
+- [Video: Introducing New Bicep Parameter Files - .bicepparam - No more JSON!](https://mischavandenburg.com/zet/video-bicep-bicepparam/)
 - [Microsoft Achieves First Milestone Towards A Quantum Supercomputer](https://mischavandenburg.com/zet/microsoft-first-milestone-quantum-supercomputer/)
 - [2023 Week 25](https://mischavandenburg.com/zet/2023-week-25/)
 - [How To Get The Id Of An Existing Subnet In Bicep](https://mischavandenburg.com/zet/bicep-getting-subnet-id/)
-- [2023 Week 24](https://mischavandenburg.com/zet/2023-week-24/)
-- [What is Azure CNI Overlay for AKS?](https://mischavandenburg.com/zet/azure-aks-cni-overlay/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
