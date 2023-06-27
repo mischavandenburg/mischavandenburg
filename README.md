@@ -10,9 +10,15 @@ https://www.mischavandenburg.com
 
 [LinkedIn](https://www.linkedin.com/in/mischavandenburg)
 
+[YouTube](https://www.youtube.com/@mischavandenburg)
+
 [Twitter](https://twitter.com/mischa_vdburg)
 
 [Exercism](https://exercism.org/profiles/mischavandenburg)
+
+# Microsoft Azure
+
+I work as a Cloud Engineer in an Azure environment and I've decided to go all-in on Azure and focus on that ecosystem. My employer kindly supplied me with a monthly credit which I can use for learning, so I'm building up an Azure Lab which I'm documenting on my blog and YouTube channel.
 
 # Go
 
