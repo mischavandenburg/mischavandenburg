@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some Interesting Facts About Azure](https://mischavandenburg.com/zet/interesting-facts-azure/)
 - [I Asked Chatgpt Do Act As The Buddha And Asked Him About Hunger](https://mischavandenburg.com/zet/chatgpt-buddha-hunger/)
 - [Video: Deploying an AKS Cluster with Bicep, GitHub Copilot and Neovim](https://mischavandenburg.com/zet/video-deploying-aks-cluster-bicep-github-copilot/)
 - [Video: Introducing New Bicep Parameter Files - .bicepparam - No more JSON!](https://mischavandenburg.com/zet/video-bicep-bicepparam/)
 - [Microsoft Achieves First Milestone Towards A Quantum Supercomputer](https://mischavandenburg.com/zet/microsoft-first-milestone-quantum-supercomputer/)
-- [2023 Week 25](https://mischavandenburg.com/zet/2023-week-25/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
