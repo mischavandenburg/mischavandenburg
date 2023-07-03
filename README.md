@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing A Cloud And The Importance Of Specialization](https://mischavandenburg.com/zet/choosing-a-cloud-provider-and-specialization/)
 - [How To Generate Random Strings In Bicep](https://mischavandenburg.com/zet/bicep-random-strings/)
 - [Azure Lowlands: Impressions from my first IT event](https://mischavandenburg.com/zet/azure-lowlands/)
 - [Some Interesting Facts About Azure](https://mischavandenburg.com/zet/interesting-facts-azure/)
 - [Video: Finishing Pipeline Setup  &amp; Working on KeyVault Template - Azure Kubernetes Lab Series](https://mischavandenburg.com/zet/video-finish-pipeline-setup-aks-series/)
-- [Video: Setting Up A Simple Azure Pipeline To Deploy A Keyvault](https://mischavandenburg.com/zet/video-aks-lab-pipeline-first-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
