@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 week 26](https://mischavandenburg.com/zet/2023-week-26/)
 - [A List Of All The Books I Have Read In My Life](https://mischavandenburg.com/zet/books-i-have-read/)
 - [Book notes: The Simple Path to Wealth: Your road map to financial independence and  rich, free life](https://mischavandenburg.com/zet/book-notes-simple-path-to-wealth/)
 - [Choosing A Cloud And The Importance Of Specialization](https://mischavandenburg.com/zet/choosing-a-cloud-provider-and-specialization/)
 - [How To Generate Random Strings In Bicep](https://mischavandenburg.com/zet/bicep-random-strings/)
-- [Azure Lowlands: Impressions from my first IT event](https://mischavandenburg.com/zet/azure-lowlands/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
