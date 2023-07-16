@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Azure OpenAI to create an AI model of my late meditation teacher](https://mischavandenburg.com/zet/video-azure-openai-chah-first-demo/)
 - [Podcast Notes - Azure OpenAI with Dr. Linda Sharer](https://mischavandenburg.com/zet/podcast-azure-openai/)
 - [2023 week 28](https://mischavandenburg.com/zet/2023-week-28/)
 - [Video: Deploying AKS Cluster With Azure CNI Using Bicep](https://mischavandenburg.com/zet/video-deploy-aks-with-azure-cni/)
 - [Wrote A Script To Delete All Resource Groups In An Azure Subscription](https://mischavandenburg.com/zet/script-delete-all-resource-groups/)
-- [2023 week 26](https://mischavandenburg.com/zet/2023-week-26/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
