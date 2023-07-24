@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 week 29](https://mischavandenburg.com/zet/2023-week-29/)
+- [Book Notes: Finding Ultra By Rich Roll](https://mischavandenburg.com/zet/book-notes-finding-ultra-rich-roll/)
 - [Kipchoge&#39;s Diet And Calories: What Does The Fastest Marathon Runner In The World Eat?](https://mischavandenburg.com/zet/kipchoge-marathon-diet/)
 - [New Running Record! Ran 12km today](https://mischavandenburg.com/zet/running-record-12km/)
 - [Podcast Notes: Interview With Eliud Kipchoge, The Fastest Marathon Runner In The World](https://mischavandenburg.com/zet/podcast-kipchoge-marathon-running/)
-- [The Fastest Runners in the World: An Overview of the Current World Records](https://mischavandenburg.com/zet/running-fastest-current-records/)
-- [Podcast Notes: Marc Andreessen: Future of the Internet, Technology, and AI - Lex Fridman Podcast](https://mischavandenburg.com/zet/podcast-fridman-andreessen-future-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
