@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Does Blending Fruits And Vegetables Affect Their Fibre Content?](https://mischavandenburg.com/zet/blending-vegetables/)
 - [Test Driven Development for Bicep is In The Works!](https://mischavandenburg.com/zet/bicep-testing-assertions/)
 - [2023 week 30](https://mischavandenburg.com/zet/2023-week-30/)
 - [Video: Deploying MkDocs To Azure Using With Azure DevOps](https://mischavandenburg.com/zet/video-mkdocs-azure-webapp/)
 - [2023 week 29](https://mischavandenburg.com/zet/2023-week-29/)
-- [Book Notes: Finding Ultra By Rich Roll](https://mischavandenburg.com/zet/book-notes-finding-ultra-rich-roll/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
