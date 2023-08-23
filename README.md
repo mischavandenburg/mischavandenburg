@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Exams Are Open Book Exams From Now On](https://mischavandenburg.com/zet/azure-exams-open-book/)
+- [Vacation Time!](https://mischavandenburg.com/zet/vacation-2023/)
 - [2023 week 33](https://mischavandenburg.com/zet/2023-week-33/)
 - [2023 week 32](https://mischavandenburg.com/zet/2023-week-32/)
 - [2023 week 31](https://mischavandenburg.com/zet/2023-week-31/)
-- [Podcast Notes: An Interview With A Vegan 100 Year Old Who Ran Marathons In His Nineties](https://mischavandenburg.com/zet/podcast-interview-100-year-old-vegan-marathoner/)
-- [How Does Blending Fruits And Vegetables Affect Their Fibre Content?](https://mischavandenburg.com/zet/blending-vegetables/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
