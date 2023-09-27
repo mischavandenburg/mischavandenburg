@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Back From Vacation - 2023](https://mischavandenburg.com/zet/back-from-vacation-2023/)
 - [Azure Exams Are Open Book Exams From Now On](https://mischavandenburg.com/zet/azure-exams-open-book/)
 - [Vacation Time!](https://mischavandenburg.com/zet/vacation-2023/)
 - [2023 week 33](https://mischavandenburg.com/zet/2023-week-33/)
 - [2023 week 32](https://mischavandenburg.com/zet/2023-week-32/)
-- [2023 week 31](https://mischavandenburg.com/zet/2023-week-31/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
