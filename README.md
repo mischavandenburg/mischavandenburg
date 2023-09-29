@@ -33,10 +33,10 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Began studying for AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://mischavandenburg.com/zet/starting-az-700/)
+- [I&#39;m not journaling as often as I used to](https://mischavandenburg.com/zet/not-journaling-as-often/)
 - [Some Interesting Features went GA on Azure](https://mischavandenburg.com/zet/azure-updates-sept-23/)
 - [Back From Vacation - 2023](https://mischavandenburg.com/zet/back-from-vacation-2023/)
 - [Book Notes - Eat and Run by Scott Jurek](https://mischavandenburg.com/zet/book-notes-eat-and-run/)
-- [Pod Disruption Budgets Can Mess With Your AKS Updates](https://mischavandenburg.com/zet/pod-disruption-budget-aks/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
