@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apps with web interfaces win any day, switching to MyFitnessPal](https://mischavandenburg.com/zet/myfitnesspal-web-interface/)
 - [What My Ancestors Ate](https://mischavandenburg.com/zet/what-my-ancestors-ate/)
 - [The Longevity Diet - Prof. Valter Longo](https://mischavandenburg.com/zet/longevity-diet/)
 - [Video notes - Application Gateway for Containers](https://mischavandenburg.com/zet/application-gateway-for-containers/)
 - [Began studying for AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://mischavandenburg.com/zet/starting-az-700/)
-- [I&#39;m not journaling as often as I used to](https://mischavandenburg.com/zet/not-journaling-as-often/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
