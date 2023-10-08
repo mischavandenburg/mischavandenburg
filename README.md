@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 week 40](https://mischavandenburg.com/zet/2023-week-40/)
+- [Introducing more play into my life](https://mischavandenburg.com/zet/more-play/)
 - [Dont Use Question Marks in Windows Filenames](https://mischavandenburg.com/zet/windows-filenames-invalid/)
 - [It is good to keep your second brain compatible with Obsidian](https://mischavandenburg.com/zet/keep-second-brain-obsidian-compatible/)
 - [Apps with web interfaces win any day, switching to MyFitnessPal](https://mischavandenburg.com/zet/myfitnesspal-web-interface/)
-- [What My Ancestors Ate](https://mischavandenburg.com/zet/what-my-ancestors-ate/)
-- [The Longevity Diet - Prof. Valter Longo](https://mischavandenburg.com/zet/longevity-diet/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
