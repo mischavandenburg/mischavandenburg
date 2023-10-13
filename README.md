@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Backing up AKS Clusters with Azure Backup is now in preview](https://mischavandenburg.com/zet/aks-azure-backup-preview/)
+- [Fixed an issue with akv2k8s overriding security context](https://mischavandenburg.com/zet/akv2k8s-edb-initcontainer-securitycontext/)
+- [Forcing a new cert from letsencrypt when too many have been issued](https://mischavandenburg.com/zet/forcing-new-cert-letsencrypt-timeout/)
 - [2023 week 40](https://mischavandenburg.com/zet/2023-week-40/)
 - [Introducing more play into my life](https://mischavandenburg.com/zet/more-play/)
-- [Dont Use Question Marks in Windows Filenames](https://mischavandenburg.com/zet/windows-filenames-invalid/)
-- [It is good to keep your second brain compatible with Obsidian](https://mischavandenburg.com/zet/keep-second-brain-obsidian-compatible/)
-- [Apps with web interfaces win any day, switching to MyFitnessPal](https://mischavandenburg.com/zet/myfitnesspal-web-interface/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
