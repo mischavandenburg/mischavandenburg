@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting A Secret from an Azure Key Vault From The Command Line](https://mischavandenburg.com/zet/list-azure-key-vault-secret/)
 - [2023 week 43](https://mischavandenburg.com/zet/2023-week-43/)
 - [AZ-700 Notes - Virtual WAN](https://mischavandenburg.com/zet/az-700-virtual-wan/)
 - [A List Of All The Books I Have Read In My Life](https://mischavandenburg.com/zet/books-i-have-read/)
 - [2023 week 42](https://mischavandenburg.com/zet/2023-week-42/)
-- [Some notes on upgrading AKS clusters running EnterpriseDB](https://mischavandenburg.com/zet/edb-cluster-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
