@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Grafana Cloud with Entra ID authentication using Terraform](https://mischavandenburg.com/zet/grafana-cloud-azure-ad/)
 - [Link: On Writing For Yourself In Public](https://mischavandenburg.com/zet/link-on-writing-for-yourself-in-public/)
 - [2023 week 45](https://mischavandenburg.com/zet/2023-week-45/)
 - [I went to my first Magic The Gathering pre-release](https://mischavandenburg.com/zet/mtg-first-prerelease-ixalan/)
 - [KEDA went GA for AKS!](https://mischavandenburg.com/zet/keda-ga/)
-- [2023 week 44](https://mischavandenburg.com/zet/2023-week-44/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
