@@ -32,11 +32,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Link: Rediscovering The Small Web](https://mischavandenburg.com/zet/rediscovering-the-small-web/)
 - [Ensure Cgroupsv2 compatiblity when containerizing old apps](https://mischavandenburg.com/zet/ensure-cgroupsv2-compatibility/)
 - [What&#39;s so hard in Kubernetes?](https://mischavandenburg.com/zet/whats-so-hard-about-kubernetes/)
 - [Deploying Grafana Agent With Custom Secrets From Azure Key Vault Using Akv2k8s And K8s-Monitoring Helm Chart](https://mischavandenburg.com/zet/grafana-agent-with-custom-secrets-akv2k8s/)
 - [Implementing Pod Disruption Budgets](https://mischavandenburg.com/zet/implementing-poddisruptionbudgets/)
-- [Setting up Grafana Cloud with Entra ID authentication using Terraform](https://mischavandenburg.com/zet/grafana-cloud-azure-ad/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
