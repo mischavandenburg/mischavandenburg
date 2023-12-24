@@ -6,15 +6,15 @@ DevOps Engineer, Cloud Engineer, command line inhabitant. I work mainly with Azu
 
 https://www.mischavandenburg.com
 
-# Contact
+# Places Online You Can Find Me
 
-[LinkedIn](https://www.linkedin.com/in/mischavandenburg)
+| --- | --- |
+| [GitHub](https://github.com/mischavandenburg/) | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
+| [X](https://twitter.com/mischa_vdburg) | [Instagram](https://www.instagram.com/mischavandenburg) |
+| [YouTube Channel](https://www.youtube.com/channel/UCDAck-gFPTrgTx_qp59-bQA) | [RSS Feed](https://mischavandenburg.com/index.xml) |
+| [Strava](https://www.strava.com/athletes/116768345) | [Personal Blog](https://mischavandenburg.blog) |
+| [Mastodon](https://toot.community/@mischavandenburg) | []() |
 
-[YouTube](https://www.youtube.com/@mischavandenburg)
-
-[Twitter](https://twitter.com/mischa_vdburg)
-
-[Exercism](https://exercism.org/profiles/mischavandenburg)
 
 # Microsoft Azure
 
