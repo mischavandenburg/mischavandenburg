@@ -8,6 +8,8 @@ https://www.mischavandenburg.com
 
 # Places Online You Can Find Me
 
+|  |  |
+| --- | --- |
 | [GitHub](https://github.com/mischavandenburg/) | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
 | [X](https://twitter.com/mischa_vdburg) | [Instagram](https://www.instagram.com/mischavandenburg) |
 | [YouTube Channel](https://www.youtube.com/channel/UCDAck-gFPTrgTx_qp59-bQA) | [RSS Feed](https://mischavandenburg.com/index.xml) |
