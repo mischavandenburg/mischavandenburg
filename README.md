@@ -8,7 +8,7 @@ https://www.mischavandenburg.com
 
 # Places Online You Can Find Me
 
-| Places Online You Can Find Me |
+| Places Online You Can Find Me |   |
 | --- | --- |
 | [GitHub](https://github.com/mischavandenburg/) | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
 | [X](https://twitter.com/mischa_vdburg) | [Instagram](https://www.instagram.com/mischavandenburg) |
