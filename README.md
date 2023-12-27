@@ -33,11 +33,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Video - How To Install Prometheus &amp; Grafana In Your Homelab](https://mischavandenburg.com/zet/video-install-prometheus-grafana-homelab/)
+- [Video: Viewing Strava Data In Grafana Dashboards](https://mischavandenburg.com/zet/video-strava-grafana/)
+- [Video: How To Install Prometheus &amp; Grafana In Your Homelab](https://mischavandenburg.com/zet/video-install-prometheus-grafana-homelab/)
 - [Wrote A Go Program That Posts To Mastodon](https://mischavandenburg.com/zet/go-mastodon-post/)
 - [Talk: Avoiding Microservice Megadisasters by Jimmy Bogard](https://mischavandenburg.com/zet/talk-avoiding-microservice-disasters/)
 - [Decided to split up into a technical and personal blog after all](https://mischavandenburg.com/zet/splitting-to-personal-blog/)
-- [Link: Rediscovering The Small Web](https://mischavandenburg.com/zet/rediscovering-the-small-web/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
