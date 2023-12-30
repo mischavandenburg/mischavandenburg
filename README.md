@@ -33,11 +33,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discovered a simple CLI to backup and upload Grafana dashboards](https://mischavandenburg.com/zet/grafana-gdg-backup-cli/)
 - [Homelab Secret Management With GitOps and Azure Key Vault](https://mischavandenburg.com/zet/handling-secrets-kubernetes/)
+- [Homelab weave tls new node](https://mischavandenburg.com/zet/video-homelab-new-node-weave-tls/)
 - [Video: Viewing Strava Data In Grafana Dashboards](https://mischavandenburg.com/zet/video-strava-grafana/)
 - [Video: How To Install Prometheus &amp; Grafana In Your Homelab](https://mischavandenburg.com/zet/video-install-prometheus-grafana-homelab/)
-- [Wrote A Go Program That Posts To Mastodon](https://mischavandenburg.com/zet/go-mastodon-post/)
-- [Talk: Avoiding Microservice Megadisasters by Jimmy Bogard](https://mischavandenburg.com/zet/talk-avoiding-microservice-disasters/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
