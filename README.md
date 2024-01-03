@@ -37,7 +37,7 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 - [Video: Homelab Episode 1](https://mischavandenburg.com/zet/homelab-episode-1/)
 - [Discovered a simple CLI to backup and upload Grafana dashboards](https://mischavandenburg.com/zet/grafana-gdg-backup-cli/)
 - [Homelab Secret Management With GitOps and Azure Key Vault](https://mischavandenburg.com/zet/handling-secrets-kubernetes/)
-- [Homelab weave tls new node](https://mischavandenburg.com/zet/video-homelab-new-node-weave-tls/)
+- [Video: Viewing Strava Data In Grafana Dashboards](https://mischavandenburg.com/zet/video-strava-grafana/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
