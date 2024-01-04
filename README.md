@@ -33,11 +33,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video: Homelab E2 - Setting Up Monitoring + Studying k3s Networking  &amp; Configuring Ingress](https://mischavandenburg.com/zet/video-homelab-3-k3s-networking/)
 - [Found a Mastodon CLI](https://mischavandenburg.com/zet/toot-mastodon-cli/)
 - [Video: Homelab Episode 1](https://mischavandenburg.com/zet/homelab-episode-1/)
 - [Discovered a simple CLI to backup and upload Grafana dashboards](https://mischavandenburg.com/zet/grafana-gdg-backup-cli/)
 - [Homelab Secret Management With GitOps and Azure Key Vault](https://mischavandenburg.com/zet/handling-secrets-kubernetes/)
-- [Video: Viewing Strava Data In Grafana Dashboards](https://mischavandenburg.com/zet/video-strava-grafana/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
