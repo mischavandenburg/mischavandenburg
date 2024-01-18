@@ -33,11 +33,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PersistentVolumeClaims Lifecycle in Kubernetes](https://mischavandenburg.com/zet/kubernetes-storage-pvc-pv/)
 - [Video: Learning Flux and Installing To Homelab](https://mischavandenburg.com/zet/video-homelab-learning-flux/)
 - [Learned Cilium Network Policies](https://mischavandenburg.com/zet/cilium-network-policies/)
 - [Designed The Network For My Homelab](https://mischavandenburg.com/zet/homelab-network-design/)
 - [Video notes - Application Gateway for Containers](https://mischavandenburg.com/zet/application-gateway-for-containers/)
-- [Video: Homelab E2 - Setting Up Monitoring + Studying k3s Networking  &amp; Configuring Ingress](https://mischavandenburg.com/zet/video-homelab-3-k3s-networking/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
