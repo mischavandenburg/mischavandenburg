@@ -33,11 +33,11 @@ I try to do some work on Exercism every day. You can follow my progress and see 
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Hugo for Redirecting URLS](https://mischavandenburg.com/zet/hugo-redirects/)
+- [A List Of All The Books I Have Read In My Life](https://mischavandenburg.com/zet/books-i-have-read/)
 - [Video: My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS](https://mischavandenburg.com/zet/video-tmux-neovim-macos-workflow/)
 - [PersistentVolumeClaims Lifecycle in Kubernetes](https://mischavandenburg.com/zet/kubernetes-storage-pvc-pv/)
 - [Video: Learning Flux and Installing To Homelab](https://mischavandenburg.com/zet/video-homelab-learning-flux/)
-- [Learned Cilium Network Policies](https://mischavandenburg.com/zet/cilium-network-policies/)
-- [Designed The Network For My Homelab](https://mischavandenburg.com/zet/homelab-network-design/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
