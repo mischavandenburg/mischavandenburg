@@ -1,16 +1,18 @@
 # Mischa van den Burg
 
-DevOps Engineer, Cloud Engineer, command line inhabitant. I work mainly with Azure and Kubernetes, and I'm learning Go in my free time.
+DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly with Azure and Kubernetes, and I'm learning Go in my free time.
 
 [I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day job ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
 
 https://www.mischavandenburg.com
 
+I also run a [Skool community.](https://mischavandenburg.com/skool)
+
 # Places Online You Can Find Me
 
 |  |  |
 | --- | --- |
-| [GitHub](https://github.com/mischavandenburg/) | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
+| [Skool](https://mischavandenburg.com/skool) | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
 | [X](https://twitter.com/mischa_vdburg) | [Instagram](https://www.instagram.com/mischavandenburg) |
 | [YouTube Channel](https://www.youtube.com/channel/UCDAck-gFPTrgTx_qp59-bQA) | [RSS Feed](https://mischavandenburg.com/index.xml) |
 | [Strava](https://www.strava.com/athletes/116768345) | [Personal Blog](https://mischavandenburg.blog) |
@@ -28,8 +30,6 @@ I'm learning Go because most of the Cloud Native technology is written in it. I 
 I'm working through several courses and books, and I'm gathering ideas for projects that I want to write.
 
 Along the way I'll be posting the things I learn on my [blog and public Zettelkasten.](https://www.mischavandenburg.com)
-
-I try to do some work on Exercism every day. You can follow my progress and see my solutions [here.](https://exercism.org/profiles/mischavandenburg)
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
