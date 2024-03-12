@@ -33,11 +33,11 @@ Along the way I'll be posting the things I learn on my [blog and public Zettelka
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing akv2k8s with Azure Key Vault Provider for Secret Store CSI Driver](https://mischavandenburg.com/zet/articles/akv2k8s-azure-key-vault-csi-analysis/)
 - [Kubernetes Gateway API &amp; Azure Application Gateway for Containers](https://mischavandenburg.com/zet/articles/gateway-api-application-gateway-for-containers/)
 - [Using Hugo for Redirecting URLS](https://mischavandenburg.com/zet/hugo-redirects/)
 - [A List Of All The Books I Have Read In My Life](https://mischavandenburg.com/zet/books-i-have-read/)
 - [Video: My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS](https://mischavandenburg.com/zet/video-tmux-neovim-macos-workflow/)
-- [PersistentVolumeClaims Lifecycle in Kubernetes](https://mischavandenburg.com/zet/kubernetes-storage-pvc-pv/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
