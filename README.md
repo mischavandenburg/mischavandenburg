@@ -33,11 +33,11 @@ Along the way I'll be posting the things I learn on my [blog and public Zettelka
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m better at Network Policies than I thought](https://mischavandenburg.com/zet/im-better-at-network-policies-than-i-thought/)
 - [Starting my CKS studies](https://mischavandenburg.com/zet/starting-cks-studies/)
 - [Remove Backgrounds from Images using MacOS Preview](https://mischavandenburg.com/zet/remove-background-image-macos/)
 - [Comparing akv2k8s with Azure Key Vault Provider for Secret Store CSI Driver](https://mischavandenburg.com/zet/articles/akv2k8s-azure-key-vault-csi-analysis/)
 - [Kubernetes Gateway API &amp; Azure Application Gateway for Containers](https://mischavandenburg.com/zet/articles/gateway-api-application-gateway-for-containers/)
-- [Using Hugo for Redirecting URLS](https://mischavandenburg.com/zet/hugo-redirects/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
