@@ -33,11 +33,11 @@ Along the way I'll be posting the things I learn on my [blog and public Zettelka
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Multiple Docker Images Using Automatic Versioning Using GitHub Actions](https://mischavandenburg.com/zet/articles/building-multiple-docker-images-using-automatic-versioning-using-github-actions/)
 - [Alleviating Confusion About The To Field In Network Policies](https://mischavandenburg.com/zet/alleviating-confusion-about-the-to-field-in-network-policies/)
 - [I&#39;m better at Network Policies than I thought](https://mischavandenburg.com/zet/im-better-at-network-policies-than-i-thought/)
 - [Starting my CKS studies](https://mischavandenburg.com/zet/starting-cks-studies/)
 - [Remove Backgrounds from Images using MacOS Preview](https://mischavandenburg.com/zet/remove-background-image-macos/)
-- [Comparing akv2k8s with Azure Key Vault Provider for Secret Store CSI Driver](https://mischavandenburg.com/zet/articles/akv2k8s-azure-key-vault-csi-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
