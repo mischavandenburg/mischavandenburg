@@ -33,11 +33,11 @@ Along the way I'll be posting the things I learn on my [blog and public Zettelka
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing packages in Devcontainers with Nix](https://mischavandenburg.com/zet/installing-packages-in-devcontainers-with-nix/)
 - [Best Way To Download Youtube Videos From Cli](https://mischavandenburg.com/zet/best-way-to-download-youtube-videos-from-cli/)
 - [Building Multiple Docker Images Using Automatic Versioning Using GitHub Actions](https://mischavandenburg.com/zet/articles/building-multiple-docker-images-using-automatic-versioning-using-github-actions/)
 - [Alleviating Confusion About The To Field In Network Policies](https://mischavandenburg.com/zet/alleviating-confusion-about-the-to-field-in-network-policies/)
 - [I&#39;m better at Network Policies than I thought](https://mischavandenburg.com/zet/im-better-at-network-policies-than-i-thought/)
-- [Starting my CKS studies](https://mischavandenburg.com/zet/starting-cks-studies/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
