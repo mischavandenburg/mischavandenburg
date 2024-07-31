@@ -33,11 +33,11 @@ Along the way I'll be posting the things I learn on my [blog and public Zettelka
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Talos Linux Upgrade Guide July](https://mischavandenburg.com/zet/talos-linux-upgrade-guide-july/)
 - [No More GitHub - My Updated Backup Setup For My Obsidian Zettelkasten](https://mischavandenburg.com/zet/my-updated-backup-setup-for-my-obsidian-zetelkasten/)
 - [The Return of Arch Linux](https://mischavandenburg.com/zet/the-return-of-arch-linux/)
 - [Got my CKS](https://mischavandenburg.com/zet/got-my-cks/)
 - [Installing packages in Devcontainers with Nix](https://mischavandenburg.com/zet/installing-packages-in-devcontainers-with-nix/)
-- [Best Way To Download Youtube Videos From Cli](https://mischavandenburg.com/zet/best-way-to-download-youtube-videos-from-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 # A quote from the Master
