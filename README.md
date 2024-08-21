@@ -61,7 +61,6 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I set up Pi-hole on my Synology NAS](https://mischavandenburg.com/zet/i-set-up-pi-hole-on-my-synology-nas/)
 - [Talos Linux Upgrade Guide July](https://mischavandenburg.com/zet/talos-linux-upgrade-guide-july/)
 - [No More GitHub - My Updated Backup Setup For My Obsidian Zettelkasten](https://mischavandenburg.com/zet/my-updated-backup-setup-for-my-obsidian-zetelkasten/)
