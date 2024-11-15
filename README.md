@@ -2,21 +2,11 @@
 
 DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly with Linux, Azure, Kubernetes, Postgres and Python.
 
-[I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. After the day job ends, I continue my studies, and I share what I learn on my blog and public Zettelkasten:
+[I'm in love with my work](https://mischavandenburg.com/zet/articles/jiro-sushi/) because there is always more to learn. 
 
-<https://www.mischavandenburg.com>
+I run the #1 DevOps community on Skool with over 2k members.
 
-If you want to get unlimited access to my courses or ask me questions directly, check out my [Skool community.](https://mischavandenburg.com/skool). It's a great place of 300+ highly motivated indviduals who are constantly learning and sharing.
-
-## Places Online You Can Find Me
-
-|                                                                             |                                                          |
-| --------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [Skool](https://mischavandenburg.com/skool)                                 | [LinkedIn](https://www.linkedin.com/in/mischavandenburg) |
-| [X](https://twitter.com/mischa_vdburg)                                      | [Instagram](https://www.instagram.com/mischavandenburg)  |
-| [YouTube Channel](https://www.youtube.com/channel/UCDAck-gFPTrgTx_qp59-bQA) | [RSS Feed](https://mischavandenburg.com/index.xml)       |
-| [Strava](https://www.strava.com/athletes/116768345)                         | [Personal Blog](https://mischavandenburg.blog)           |
-| [Mastodon](https://toot.community/@mischavandenburg)                        | [Ko-fi](https://ko-fi.com/mischavandenburg)              |
+[Join my free community here.](https://skool.com/mischa)
 
 ## Things I've Built
 
