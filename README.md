@@ -55,7 +55,7 @@ I enjoy that I can use it for practically everything.
 - [Security Hardening Complete](https://mischavandenburg.com/zet/security-hardening-complete/)
 - [Testing the Full Pipeline](https://mischavandenburg.com/zet/testing-the-full-pipeline/)
 - [Uploading Large Git Repos to Forgejo via NFS](https://mischavandenburg.com/zet/uploading-large-git-repos-forgejo-nfs/)
-- [Running these apps in my homelab made me $600K](https://mischavandenburg.com/zet/2025-12-01-kit-running-these-apps-in-my-homelab-made-me-600k/)
+- [Why I&#39;m Starting with a Zwift Ride Instead of a Real Bike](https://mischavandenburg.com/zet/why-im-starting-with-zwift-ride/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
