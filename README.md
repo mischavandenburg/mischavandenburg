@@ -55,7 +55,7 @@ I enjoy that I can use it for practically everything.
 - [Security Hardening Complete](https://mischavandenburg.com/zet/security-hardening-complete/)
 - [Testing the Full Pipeline](https://mischavandenburg.com/zet/testing-the-full-pipeline/)
 - [Uploading Large Git Repos to Forgejo via NFS](https://mischavandenburg.com/zet/uploading-large-git-repos-forgejo-nfs/)
-- [Knowing Containers, Databases &amp; Code is Magic](https://mischavandenburg.com/zet/knowing-containers-databases--code-is-magic/)
+- [Running these apps in my homelab made me $600K](https://mischavandenburg.com/zet/2025-12-01-kit-running-these-apps-in-my-homelab-made-me-600k/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
