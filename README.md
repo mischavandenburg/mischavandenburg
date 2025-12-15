@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [End to End Test December 15](https://mischavandenburg.com/zet/end-to-end-test-december-15/)
+- [Security Hardening Complete](https://mischavandenburg.com/zet/security-hardening-complete/)
+- [Testing the Full Pipeline](https://mischavandenburg.com/zet/testing-the-full-pipeline/)
+- [Uploading Large Git Repos to Forgejo via NFS](https://mischavandenburg.com/zet/uploading-large-git-repos-forgejo-nfs/)
 - [Knowing Containers, Databases &amp; Code is Magic](https://mischavandenburg.com/zet/knowing-containers-databases--code-is-magic/)
-- [Talos Homelab Upgrade Guide October](https://mischavandenburg.com/zet/talos-homelab-upgrade-guide-october/)
-- [Running iCloud Web as a Desktop Application on Arch Linux with Hyprland](https://mischavandenburg.com/zet/running-icloud-web-as-a-desktop-application-on-arch-linux-with-hyprland/)
-- [Adding Articles to Wallabag From Qutebrowser](https://mischavandenburg.com/zet/adding-articles-to-wallabag-with-qutebrowser/)
-- [I set up Pi-hole on my Synology NAS](https://mischavandenburg.com/zet/i-set-up-pi-hole-on-my-synology-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
