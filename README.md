@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guido van Rossum Convinced Me: Python Is The Way](https://mischavandenburg.com/zet/guido-van-rossum-convinced-me-python-is-the-way/)
 - [Why chezmoi add Fails With External Archives](https://mischavandenburg.com/zet/chezmoi-add-fails-with-externals/)
 - [Zwift Ride is a premium product and I love it](https://mischavandenburg.com/zet/zwift-ride-is-a-premium-product-and-i-love-it/)
 - [Why I&#39;m Starting with a Zwift Ride Instead of a Real Bike](https://mischavandenburg.com/zet/why-im-starting-with-zwift-ride/)
 - [Security Hardening Complete](https://mischavandenburg.com/zet/security-hardening-complete/)
-- [Uploading Large Git Repos to Forgejo via NFS](https://mischavandenburg.com/zet/uploading-large-git-repos-forgejo-nfs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
