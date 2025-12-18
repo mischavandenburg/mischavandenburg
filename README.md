@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Will Write Your Code, But Only If You Already Could](https://mischavandenburg.com/zet/ai-will-write-your-code-but-only-if-you-already-could/)
 - [Guido van Rossum Convinced Me: Python Is The Way](https://mischavandenburg.com/zet/guido-van-rossum-convinced-me-python-is-the-way/)
 - [Why chezmoi add Fails With External Archives](https://mischavandenburg.com/zet/chezmoi-add-fails-with-externals/)
 - [Zwift Ride is a premium product and I love it](https://mischavandenburg.com/zet/zwift-ride-is-a-premium-product-and-i-love-it/)
 - [Why I&#39;m Starting with a Zwift Ride Instead of a Real Bike](https://mischavandenburg.com/zet/why-im-starting-with-zwift-ride/)
-- [Security Hardening Complete](https://mischavandenburg.com/zet/security-hardening-complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
