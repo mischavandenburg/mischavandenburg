@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sovereign Craftsman](https://mischavandenburg.com/zet/the-sovereign-craftsman/)
 - [Reloader: Auto-Restart Pods When ConfigMaps Change](https://mischavandenburg.com/zet/reloader-auto-restart-pods-configmap-changes/)
 - [AI Will Write Your Code, But Only If You Already Could](https://mischavandenburg.com/zet/ai-will-write-your-code-but-only-if-you-already-could/)
 - [Guido van Rossum Convinced Me: Python Is The Way](https://mischavandenburg.com/zet/guido-van-rossum-convinced-me-python-is-the-way/)
 - [Why chezmoi add Fails With External Archives](https://mischavandenburg.com/zet/chezmoi-add-fails-with-externals/)
-- [Zwift Ride is a premium product and I love it](https://mischavandenburg.com/zet/zwift-ride-is-a-premium-product-and-i-love-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
