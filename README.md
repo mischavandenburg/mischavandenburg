@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is Making Junior Engineers Unemployable](https://mischavandenburg.com/zet/ai-is-making-junior-engineers-unemployable/)
 - [How To Fix Framework Desktop PSU Fan Noise](https://mischavandenburg.com/zet/how-to-fix-framework-desktop-psu-fan-noise/)
 - [What to expect from me in 2026](https://mischavandenburg.com/zet/what-to-expect-in-2026/)
 - [The Sovereign Craftsman](https://mischavandenburg.com/zet/the-sovereign-craftsman/)
 - [Reloader: Auto-Restart Pods When ConfigMaps Change](https://mischavandenburg.com/zet/reloader-auto-restart-pods-configmap-changes/)
-- [AI Will Write Your Code, But Only If You Already Could](https://mischavandenburg.com/zet/ai-will-write-your-code-but-only-if-you-already-could/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
