@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I just can&#39;t do science fiction, but I tried](https://mischavandenburg.com/zet/i-just-cant-do-science-fiction/)
 - [A Tale of 60,000 Data Points: How My AI Found What My Fitness Apps Couldn&#39;t](https://mischavandenburg.com/zet/why-your-ai-assistant-needs-your-data/)
 - [Tailscale on Fedora Atomic with Podman Quadlet](https://mischavandenburg.com/zet/tailscale-on-fedora-atomic-with-podman-quadlet/)
 - [AI is Making Junior Engineers Unemployable](https://mischavandenburg.com/zet/ai-is-making-junior-engineers-unemployable/)
 - [How To Fix Framework Desktop PSU Fan Noise](https://mischavandenburg.com/zet/how-to-fix-framework-desktop-psu-fan-noise/)
-- [What to expect from me in 2026](https://mischavandenburg.com/zet/what-to-expect-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
