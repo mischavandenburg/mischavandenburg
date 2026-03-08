@@ -6,7 +6,7 @@ DevOps Engineer, Cloud Native Engineer, command line inhabitant. I work mainly w
 
 # I run the #1 DevOps community on Skool with over 2k members.
 
-[Join my free community here.](https://skool.com/mischa)
+[Join my free community here.](https://skool.com/linux)
 
 ## Things I've Built
 
