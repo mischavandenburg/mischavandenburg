@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Upgrade — How Fleet Reduction Saved My Kubernetes Cluster](https://mischavandenburg.com/zet/the-quiet-upgrade-fleet-reduction-saved-kubernetes-cluster/)
 - [Takeaways From a Billionaire Day in the Life Video](https://mischavandenburg.com/zet/takeaways-from-a-billionaire-day-in-the-life-video/)
 - [How to Fix Warping with Stack Printing on Prusa Core One+](https://mischavandenburg.com/zet/how-to-fix-warping-with-stack-printing-on-prusa-core-one/)
 - [This Is a Test Post for Demo Purposes](https://mischavandenburg.com/zet/2026-02-11-test-post-for-demo/)
 - [I just can&#39;t do science fiction, but I tried](https://mischavandenburg.com/zet/i-just-cant-do-science-fiction/)
-- [A Tale of 60,000 Data Points: How My AI Found What My Fitness Apps Couldn&#39;t](https://mischavandenburg.com/zet/why-your-ai-assistant-needs-your-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
