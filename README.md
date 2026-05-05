@@ -51,11 +51,11 @@ I enjoy that I can use it for practically everything.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversation Memory in RAG: What Production Actually Does &lpar;and How I Built It on One GPU&rpar;](https://mischavandenburg.com/zet/conversation-memory-rag-production-one-gpu/)
 - [The Quiet Upgrade — How Fleet Reduction Saved My Kubernetes Cluster](https://mischavandenburg.com/zet/the-quiet-upgrade-fleet-reduction-saved-kubernetes-cluster/)
 - [Takeaways From a Billionaire Day in the Life Video](https://mischavandenburg.com/zet/takeaways-from-a-billionaire-day-in-the-life-video/)
 - [How to Fix Warping with Stack Printing on Prusa Core One+](https://mischavandenburg.com/zet/how-to-fix-warping-with-stack-printing-on-prusa-core-one/)
 - [This Is a Test Post for Demo Purposes](https://mischavandenburg.com/zet/2026-02-11-test-post-for-demo/)
-- [I just can&#39;t do science fiction, but I tried](https://mischavandenburg.com/zet/i-just-cant-do-science-fiction/)
 <!-- BLOG-POST-LIST:END -->
 
 ## A quote from the Master
